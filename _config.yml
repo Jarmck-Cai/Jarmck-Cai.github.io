@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site navigation
 header_pages:
-  - pages/about.md
-  - pages/projects.md
-  - pages/blog.md
+  - _pages/about.md
+  - _pages/projects.md
+  - _pages/blog.md
   
 # Site Settings
 locale                   : "en-US"
