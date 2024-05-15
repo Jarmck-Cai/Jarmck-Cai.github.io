@@ -1,7 +1,9 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: single
+permalink: /
+title: "Rui Sun's homepage"
+excerpt: "About me"
+author_profile: true
 ---
 
 # About Me
